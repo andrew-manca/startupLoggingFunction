@@ -1,7 +1,7 @@
 ﻿using Microsoft.Azure.WebJobs;
 using Microsoft.Extensions.Logging;
 
-namespace DurableFunction201113
+namespace StartupLog
 {
     public interface IMyLoggerProvider
     {

@@ -3,7 +3,7 @@ using Microsoft.Extensions.Logging;
 using StartupLog;
 using System;
 
-namespace DurableFunction201113
+namespace StartupLog
 {
     public class MyLoggerProvider : IMyLoggerProvider
     {

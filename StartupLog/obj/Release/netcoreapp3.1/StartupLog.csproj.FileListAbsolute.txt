@@ -1,0 +1,4 @@
+C:\Users\anmanca\source\repos\StartupLog\StartupLog\obj\Release\netcoreapp3.1\StartupLog.csprojAssemblyReference.cache
+C:\Users\anmanca\source\repos\StartupLog\StartupLog\obj\Release\netcoreapp3.1\StartupLog.AssemblyInfoInputs.cache
+C:\Users\anmanca\source\repos\StartupLog\StartupLog\obj\Release\netcoreapp3.1\StartupLog.AssemblyInfo.cs
+C:\Users\anmanca\source\repos\StartupLog\StartupLog\obj\Release\netcoreapp3.1\StartupLog.csproj.CoreCompileInputs.cache
