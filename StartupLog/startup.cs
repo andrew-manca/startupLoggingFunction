@@ -4,7 +4,7 @@ using Microsoft.ApplicationInsights;
 using Microsoft.ApplicationInsights.Extensibility;
 using System;
 
-[assembly: FunctionsStartup(typeof(DurableFunction201113.Startup))]
+[assembly: FunctionsStartup(typeof(StartupLog.Startup))]
 
 namespace StartupLog
 {
@@ -16,7 +16,7 @@ namespace StartupLog
             {
                 ConfigureServices(builder.Services).BuildServiceProvider(true);
 
-                //throw new Exception("TEST EXCEPTION!!!");
+                throw new Exception("TEST EXCEPTION!!!");
             }
             catch (Exception ex)
             {
