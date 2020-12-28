@@ -6,7 +6,7 @@ using System;
 
 [assembly: FunctionsStartup(typeof(DurableFunction201113.Startup))]
 
-namespace DurableFunction201113
+namespace StartupLog
 {
     public class Startup : FunctionsStartup
     {
